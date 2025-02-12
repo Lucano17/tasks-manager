@@ -25,6 +25,22 @@
   margin-top: 2px;
 }
 
+.link {
+  color: rgb(214, 33, 193);
+}
+
+.link:active {
+  color: rgb(214, 33, 193);
+}
+
+.link:visited {
+  color: rgb(214, 33, 193);
+}
+
+.link::after {
+  color: rgb(214, 33, 193);
+}
+
 @media (max-width: 576px) {
   .tasksPageContainer {
     display: flex;

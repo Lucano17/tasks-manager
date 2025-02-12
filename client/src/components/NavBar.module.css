@@ -69,6 +69,10 @@
     color: rgb(214, 33, 193);
   }
 
+  .navBar a::after {
+    color: rgb(214, 33, 193);
+  }
+
 .navBar .navBarUsername {
     color: rgb(214, 33, 193);
     margin-left: 7px;

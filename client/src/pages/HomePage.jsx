@@ -6,8 +6,6 @@ import { GiPartyPopper } from "react-icons/gi";
 import { GiThink } from "react-icons/gi";
 import { BiSolidFilePlus } from "react-icons/bi";
 
-import React from 'react'
-
 const HomePage = () => {
   return (
     <div className={styles.homePageContainer}>
